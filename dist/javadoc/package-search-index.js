@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"chat_application1"},{"l":"com.chat.main"},{"l":"com.chat.swing"}];updateSearchResults();
